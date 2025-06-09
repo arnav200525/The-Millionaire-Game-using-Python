@@ -11,7 +11,10 @@ questions = [
     ["Which planet is closest to the Sun?", "A. Venus", "B. Earth", "C. Mars", "D. Mercury", "D", "10,000"],
     ["Who painted the 'Mona Lisa'?", "A. Picasso", "B. Van Gogh", "C. Leonardo da Vinci", "D. Michelangelo", "C", "7,00,000"],
     ["Which language is primarily spoken in Brazil?", "A. Spanish", "B. French", "C. Portuguese", "D. English", "C", "4,000"]
+#can add more question..
 ]
+
+
 
 random.shuffle(questions)
 prize = 0
